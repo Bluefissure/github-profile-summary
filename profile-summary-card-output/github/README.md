@@ -15,10 +15,20 @@
 ### Each card usage
 ---
 
-![](./3-stats.svg)
+![](./1-repos-per-language.svg)
 
 ```
-![](https://raw.githubusercontent.com/Bluefissure/github-profile-summary/master/profile-summary-card-output/github/3-stats.svg)
+![](https://raw.githubusercontent.com/Bluefissure/github-profile-summary/master/profile-summary-card-output/github/1-repos-per-language.svg)
+```
+
+    
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/Bluefissure/github-profile-summary/master/profile-summary-card-output/github/2-most-commit-language.svg)
 ```
 
     
